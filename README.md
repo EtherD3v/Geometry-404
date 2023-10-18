@@ -2,4 +2,5 @@
 
 > Simple vanilla javascript game inspired by Geometry Dash
 
-You can play the game here [www.jumping-square-game.web.app](https://jumping-square-game.web.app/)
+You can clone the game with.. : ```gh repo clone SolarTypS/Geometry-404``` <br>
+And run : ```npm run dev```
