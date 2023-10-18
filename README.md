@@ -4,3 +4,5 @@
 
 You can clone the game with.. : ```gh repo clone SolarTypS/Geometry-404``` <br>
 ..And run : ```npm run dev```
+
+Execute now : [click here]
