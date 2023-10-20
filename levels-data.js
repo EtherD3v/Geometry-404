@@ -106,7 +106,7 @@ let levels = [
 ]
 
 let platformImagePaths = {
-   '#': './images/blocks/a21.png',
+   '#': './images/blocks/a21 .png',
    '!': './images/blocks/a32.png',
    '*': './images/blocks/a36.png'
 }
