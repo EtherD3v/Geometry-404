@@ -3,11 +3,12 @@
 > Pure vanilla javascript game inspired by Geometry Dash
 
 You can clone the game with.. : 
-```
+``` bash
 gh repo clone SolarTypS/Geometry-404
-``` <br>
-..And run : 
 ```
+ <br>
+..And run : 
+``` bash
 npm run dev
 ```
 
