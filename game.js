@@ -118,7 +118,7 @@ export default class Game {
 
       this.player = new Player(
          this.level.blockSize,
-         './images/player-sprites/11.png',
+         './images/player-sprites/8.png',
          this.level.blockSize * config.BLOCK_DISTANCE_FROM_LEFT_BORDER,
          this.level.getPlayerSpawnpointY(),
          this.level.gravity
