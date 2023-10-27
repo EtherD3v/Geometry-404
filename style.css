@@ -25,8 +25,9 @@ h1 {
 }
 
 .gui-container {
-   background-color: bisque;
+   background-image: url("https://motionarray.imgix.net/preview-67108hQ3Ts7UIrG_0002.jpg");
    position: absolute;
+   border-radius: 10px;
    left: 50%;
    top: 50%;
    transform: translate(-50%, -50%);
@@ -53,7 +54,9 @@ select {
 .play-btn {
    width: 100%;
    padding: 6px 0;
-   background-color: aqua;
+   background: rgb(133,74,32);
+   border-radius: 2px;
+   background: linear-gradient(90deg, rgba(133,74,32,1) 0%, rgba(175,116,31,1) 48%, rgba(39,167,166,1) 96%);
    border: 1px solid black;
    cursor: pointer;
    font-weight: bolder;
