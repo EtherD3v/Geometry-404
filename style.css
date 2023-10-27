@@ -14,7 +14,8 @@ h1 {
    left: 50%;
    top: 100px;
    transform: translateX(-50%);
-   color: #Ffd700
+   color: #Ffd700;
+   box-shadow: 12px 10px 5px 0px;
 }
 
 .game-canvas {
