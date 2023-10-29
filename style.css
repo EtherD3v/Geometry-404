@@ -15,6 +15,7 @@ h1 {
    top: 100px;
    transform: translateX(-50%);
    box-shadow: 12px 10px 5px 0px;
+   border-radius: 5px;
    background: rgb(46,60,2);
    background: linear-gradient(90deg, rgba(46,60,2,1) 0%, rgba(133,132,21,1) 27%, rgba(8,132,12,1) 61%, rgba(0,212,255,1) 100%);
 }
