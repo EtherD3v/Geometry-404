@@ -71,18 +71,19 @@ let levels = [
    {
       mapData: levelMaps[0],
       backgroundLayers: {
-         './images/backgrounds/Bg1/Layers/1.png': 0.02,
-         './images/backgrounds/Bg1/Layers/2.png': 0.4,
-         './images/backgrounds/Bg1/Layers/3.png': 0.7,   
+         './images/backgrounds/Bg9/Layers/1.png': 0.02,
+         './images/backgrounds/Bg9/Layers/2.png': 0.4,  
       },
    },
 
    {
       mapData: levelMaps[1],
       backgroundLayers: {
-         './images/backgrounds/Bg2/Layers/1.png': 0.02,
-         './images/backgrounds/Bg2/Layers/2.png': 0.1,
-         './images/backgrounds/Bg2/Layers/3.png': 0.6,
+         './images/backgrounds/Bg7/Layers/1.png': 0.02,
+         './images/backgrounds/Bg7/Layers/2.png': 0.1,
+         './images/backgrounds/Bg7/Layers/3.png': 0.6,
+         './images/backgrounds/Bg7/Layers/4.png': 0.9,
+         
       },
    },
 
