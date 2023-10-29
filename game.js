@@ -160,13 +160,13 @@ export default class Game {
 
    displayLevelNumber() {
       ctx.font = `${this.textSize}px serif`
-      ctx.fillStyle = 'black'
+      ctx.fillStyle = 'orange'
       ctx.fillText(`Level: ${this.levelIndex + 1}`, this.textSize, this.textSize * 2)
    }
 
    displayDeaths() {
       ctx.font = `${this.textSize}px serif`
-      ctx.fillStyle = 'black'
+      ctx.fillStyle = 'blue'
       ctx.fillText(`Deaths: ${this.player.deaths}`, this.textSize, this.textSize * 2 + this.textSize * 1.5)
    }   
 
