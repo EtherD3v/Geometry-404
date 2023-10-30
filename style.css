@@ -2,12 +2,10 @@
    margin: 0;
    padding: 0;
 }
-
 body {
    background-color: salmon;
    background-image: url("https://th.bing.com/th/id/R.fc2e6b275ea65b3f45d8ce08739141c9?rik=0qdlBswGfzKPqw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f5%2ff%2f9%2f805309-popular-neon-light-background-1920x1080-download-free.jpg&ehk=5pVbV5JEyZjzPOCU7zIN%2f1qWSHBLhELPDqvy8FFZkCs%3d&risl=&pid=ImgRaw&r=0");
 }
-
 h1 {
    font-size: 50px;
    position: absolute;
@@ -26,7 +24,6 @@ h1 {
    left: 50%;
    transform: translate(-50%, -50%);
 }
-
 .gui-container {
    background-image: url("https://i.pinimg.com/originals/c9/d3/bd/c9d3bdad1b4a055daadb94001b7dd514.jpg");
    position: absolute;
@@ -38,7 +35,6 @@ h1 {
    width: 90%;
    max-width: 200px;
 }
-
 .players-wrapper,
 .levels-wrapper {
    margin-bottom: 10px;
