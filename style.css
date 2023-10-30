@@ -17,7 +17,6 @@ h1 {
    background: rgb(124,21,10);
    background: linear-gradient(90deg, rgba(124,21,10,1) 0%, rgba(133,55,21,1) 46%, rgba(64,8,132,1) 54%, rgba(16,212,251,1) 100%);
 }
-
 .game-canvas {
    position: absolute;
    top: 50%;
