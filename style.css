@@ -44,8 +44,8 @@ select {
    width: 100%;
 }
 
-.button-glitch,
-.button-glitch:after {
+.play-btn,
+.play-btn:after {
   width: 150px;
   height: 76px;
   line-height: 78px;
@@ -63,7 +63,7 @@ select {
   touch-action: manipulation;
 }
 
-.button-glitch:after {
+.play-btn:after {
   --slice-0: inset(50% 50% 50% 50%);
   --slice-1: inset(80% -6px 0 0);
   --slice-2: inset(50% -6px 30% 0);
@@ -83,7 +83,7 @@ select {
   clip-path: var(--slice-0);
 }
 
-.button-glitch:hover:after {
+.play-btn:hover:after {
   animation: 1s glitch;
   animation-timing-function: steps(2, end);
 }
@@ -136,8 +136,8 @@ select {
 }
 
 @media (min-width: 768px) {
-  .button-glitch,
-  .button-glitch:after {
+  .play-btn,
+  .play-btn:after {
     width: 200px;
     height: 86px;
     line-height: 88px;
