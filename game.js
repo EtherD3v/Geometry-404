@@ -79,7 +79,7 @@ export default class Game {
 
       // Checking if level was moved to its end, which means player has won
       if (this.level.checkIfPlayerFinished(this.player)) {
-         console.log('You win');
+         alert('You win');
          setTimeout(() => {
             this.levelIndex++
             this.generateLevel(this.levelIndex)
