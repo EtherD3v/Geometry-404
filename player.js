@@ -1,6 +1,7 @@
 import Square from './square.js'
 import config from './game-config.js'
 import Utils from './utils.js'
+//rien
 
 export default class Player extends Square {
    constructor(size, imagePath, posX, posY) {
