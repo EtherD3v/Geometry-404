@@ -43,7 +43,7 @@ getDisplayRefreshRate().then(refreshRate => {
       guiContainer.style.display = 'none'
       htmlGameTitle.style.display = 'none'
    
-      game = new Game()
+      game = new Game()//ok
       game.resize() // Initially resizing game to fit window size
       await game.generateLevel(levelIndex)
    
