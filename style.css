@@ -4,7 +4,8 @@
 }
 body {
    background-color: salmon;
-   background-image: url("https://th.bing.com/th/id/R.fc2e6b275ea65b3f45d8ce08739141c9?rik=0qdlBswGfzKPqw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f5%2ff%2f9%2f805309-popular-neon-light-background-1920x1080-download-free.jpg&ehk=5pVbV5JEyZjzPOCU7zIN%2f1qWSHBLhELPDqvy8FFZkCs%3d&risl=&pid=ImgRaw&r=0");
+  background: url('./images/backgrounds/home_bg.jpg') no-repeat center center fixed;
+  background-size: cover;
 }
 h1 {
    font-size: 50px;
