@@ -13,4 +13,4 @@ gh repo clone SolarTypS/Geometry-404
 npm run dev
 ```
 
-Execute now : [click here](https://solartyps.github.io/Geometry-404/)
+Execute now : [click here](https://EtherD3v.github.io/Geometry-404/)
