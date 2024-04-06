@@ -19,7 +19,7 @@ h1 {
    transform: translateX(-50%);
    box-shadow: 12px 10px 5px 0px;
    border-radius: 10px;
-   background: rgb(124,21,10);
+   background: #312e81;
 }
 .game-canvas {
    position: absolute;
